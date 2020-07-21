@@ -3,3 +3,6 @@
 ################################################################################
 
 /TestWebApp/.vs/TestWebApp
+/TestWebApp/packages
+/TestWebApp/TestWebApp/bin
+/TestWebApp/TestWebApp/obj/Debug
