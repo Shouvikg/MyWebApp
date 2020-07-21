@@ -6,3 +6,6 @@
 /TestWebApp/packages
 /TestWebApp/TestWebApp/bin
 /TestWebApp/TestWebApp/obj/Debug
+/DorNetCoreUIWebApplication/.vs/DorNetCoreUIWebApplication
+/DorNetCoreUIWebApplication/DorNetCoreUIWebApplication/bin/Debug/netcoreapp3.1
+/DorNetCoreUIWebApplication/DorNetCoreUIWebApplication/obj
